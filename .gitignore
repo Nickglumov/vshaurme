@@ -1,3 +1,10 @@
 .idea/
 .vscode/
 DS_Store/
+# Игнорировать файлы базы данных SQLite
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
