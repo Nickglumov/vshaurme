@@ -8,4 +8,3 @@ DS_Store/
 *.sqlite3
 *.sqlite-wal
 *.sqlite-shm
-python_scripts\vshaurme\vshaurme\db.sqlite3
